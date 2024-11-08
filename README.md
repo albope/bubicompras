@@ -10,7 +10,7 @@ BubiCompras es una aplicación web diseñada para simplificar las compras en tie
 
 - **Gestión de listas de compras**: permite a los usuarios añadir, actualizar y eliminar artículos de la lista.
 - **Interfaz intuitiva**: diseñada para una navegación sencilla y fluida.
--**Estadisticas**: Permite recopilar las estadisticas de las compras realizadas.
+- **Estadisticas**: Permite recopilar las estadisticas de las compras realizadas.
 - **Almacenamiento**: los datos se mantienen de manera local, asegurando que las listas persistan mientras la aplicación esté en uso.
 
 ## Tecnologías
